@@ -2,9 +2,9 @@
   "dato": [
     {
       "id":1,
-      "nombre": "Tim Robles",
-      "documento_identidad": 47834310,
-      "fecha_nacimiento": "1993-04-06"
+      "nombre": "Juan Perez",
+      "documento_identidad": 12345678,
+      "fecha_nacimiento": "1990-01-01"
     }
   ],
   "profile": {
