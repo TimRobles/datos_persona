@@ -5,174 +5,180 @@
         "nombre": "Juan Perez",
         "documento_identidad": 12345678,
         "fecha_nacimiento": "1990-01-01"
-      },    
+      },
       {
         "id":2,
-        "nombre": "Miguel Juarez",
-        "documento_identidad": 987654321,
-        "fecha_nacimiento": "error en fecha"
+        "nombre": "Maria Rodriguez",
+        "documento_identidad": 98464684,
+        "fecha_nacimiento": "1989-05-12"
       },
       {
         "id":3,
-        "nombre": "Maria Lopez",
-        "documento_identidad": 12345678,
-        "fecha_nacimiento": "1990-01-01"
+        "nombre": "Carlos Sanchez",
+        "documento_identidad": 45678912,
+        "fecha_nacimiento": "1995-10-10"
       },
       {
         "id":4,
-        "nombre": "Jose Perez",
-        "documento_identidad": 987654321,
-        "fecha_nacimiento": "error en fecha"
+        "nombre": "Luisa Perez",
+        "documento_identidad": 12345678,
+        "fecha_nacimiento": "1990-01-01"
       },
       {
         "id":5,
-        "nombre": "Miguel Juarez",
-        "documento_identidad": 987654321,
-        "fecha_nacimiento": "error en fecha"
+        "nombre": "Pedro Rodriguez",
+        "documento_identidad": 98464684,
+        "fecha_nacimiento": "1989-05-12"
       },
       {
         "id":6,
-        "nombre": "Maria Lopez",
-        "documento_identidad": 12345678,
-        "fecha_nacimiento": "1990-01-01"
+        "nombre": "Camila Sanchez",
+        "documento_identidad": 45678912,
+        "fecha_nacimiento": "1995-10-10"
       },
       {
         "id":7,
-        "nombre": "Jose Perez",
-        "documento_identidad": 987654321,
-        "fecha_nacimiento": "error en fecha"
+        "nombre": "Jorge Perez",
+        "documento_identidad": 98465412,
+        "fecha_nacimiento": "1999-12-10"
       },
       {
         "id":8,
-        "nombre": "Miguel Juarez",
-        "documento_identidad": 987654321,
-        "fecha_nacimiento": "error en fecha"
+        "nombre": "Sofia Rodriguez",
+        "documento_identidad": 98464684,
+        "fecha_nacimiento": "1989-05-12"
       },
       {
         "id":9,
-        "nombre": "Maria Lopez",
-        "documento_identidad": 12345678,
-        "fecha_nacimiento": "1990-01-01"
+        "nombre": "Andres Sanchez",
+        "documento_identidad": 45678912,
+        "fecha_nacimiento": "1995-10-10"
       },
       {
         "id":10,
-        "nombre": "Jose Perez",
-        "documento_identidad": 987654321,
-        "fecha_nacimiento": "error en fecha"
+        "nombre": "Laura Perez",
+        "documento_identidad": 98465412,
+        "fecha_nacimiento": "1999-12-10"
       },
       {
         "id":11,
-        "nombre": "Miguel Juarez",
-        "documento_identidad": 987654321,
-        "fecha_nacimiento": "error en fecha"
+        "nombre": "Santiago Rodriguez",
+        "documento_identidad": 98464684,
+        "fecha_nacimiento": "1989-05-12"
       },
       {
         "id":12,
-        "nombre": "Maria Lopez",
-        "documento_identidad": 12345678,
-        "fecha_nacimiento": "1990-01-01"
+        "nombre": "Valentina Sanchez",
+        "documento_identidad": 45678912,
+        "fecha_nacimiento": "1995-10-10"
       },
       {
         "id":13,
-        "nombre": "Jose Perez",
-        "documento_identidad": 987654321,
-        "fecha_nacimiento": "error en fecha"
+        "nombre": "Mateo Perez",
+        "documento_identidad": 98465412,
+        "fecha_nacimiento": "1999-12-10"
       },
       {
         "id":14,
-        "nombre": "Miguel Juarez",
-        "documento_identidad": 987654321,
-        "fecha_nacimiento": "error en fecha"
+        "nombre": "Juliana Rodriguez",
+        "documento_identidad": 98464684,
+        "fecha_nacimiento": "1989-05-12"
       },
       {
-          "id":15,
-          "nombre": "Maria Lopez",
-          "documento_identidad": 12345678,
-          "fecha_nacimiento": "1990-01-01"
+        "id":15,
+        "nombre": "Daniel Sanchez",
+        "documento_identidad": 45678912,
+        "fecha_nacimiento": "1995-10-10"
       },
       {
-          "id":16,
-          "nombre": "Jose Perez",
-          "documento_identidad": 987654321,
-          "fecha_nacimiento": "error en fecha"
+        "id":16,
+        "nombre": "Mariana Perez",
+        "documento_identidad": 98465412,
+        "fecha_nacimiento": "1999-12-10"
       },
       {
-          "id":17,
-          "nombre": "Miguel Juarez",
-          "documento_identidad": 987654321,
-          "fecha_nacimiento": "error en fecha"
+        "id":17,
+        "nombre": "Gabriel Rodriguez",
+        "documento_identidad": 98464684,
+        "fecha_nacimiento": "1989-05-12"
       },
       {
-          "id":18,
-          "nombre": "Maria Lopez",
-          "documento_identidad": 12345678,
-          "fecha_nacimiento": "1990-01-01"
+        "id":18,
+        "nombre": "Antonia Sanchez",
+        "documento_identidad": 45678912,
+        "fecha_nacimiento": "1995-10-10"
       },
       {
-          "id":19,
-          "nombre": "Jose Perez",
-          "documento_identidad": 987654321,
-          "fecha_nacimiento": "error en fecha"
+        "id":19,
+        "nombre": "David Perez",
+        "documento_identidad": 98465412,
+        "fecha_nacimiento": "1999-12-10"
       },
       {
-          "id":20,
-          "nombre": "Miguel Juarez",
-          "documento_identidad": 987654321,
-          "fecha_nacimiento": "error en fecha"
+        "id":20,
+        "nombre": "Isabella Rodriguez",
+        "documento_identidad": 98464684,
+        "fecha_nacimiento": "1989-05-12"
       },
       {
-          "id":21,
-          "nombre": "Maria Lopez",
-          "documento_identidad": 12345678,
-          "fecha_nacimiento": "1990-01-01"
+        "id":21,
+        "nombre": "Samuel Sanchez",
+        "documento_identidad": 45678912,
+        "fecha_nacimiento": "1995-10-10"
       },
       {
-          "id":22,
-          "nombre": "Jose Perez",
-          "documento_identidad": 987654321,
-          "fecha_nacimiento": "error en fecha"
+        "id":22,
+        "nombre": "Luciana Perez",
+        "documento_identidad": 98465412,
+        "fecha_nacimiento": "1999-12-10"
       },
       {
-          "id":23,
-          "nombre": "Miguel Juarez",
-          "documento_identidad": 987654321,
-          "fecha_nacimiento": "error en fecha"
+        "id":23,
+        "nombre": "Benjamin Rodriguez",
+        "documento_identidad": 98464684,
+        "fecha_nacimiento": "1989-05-12"
       },
       {
-          "id":24,
-          "nombre": "Maria Lopez",
-          "documento_identidad": 12345678,
-          "fecha_nacimiento": "1990-01-01"
+        "id":24,
+        "nombre": "Emma Sanchez",
+        "documento_identidad": 45678912,
+        "fecha_nacimiento": "1995-10-10"
       },
       {
-          "id":25,
-          "nombre": "Jose Perez",
-          "documento_identidad": 987654321,
-          "fecha_nacimiento": "error en fecha"
+        "id":25,
+        "nombre": "Lucas Perez",
+        "documento_identidad": 98465412,
+        "fecha_nacimiento": "1999-12-10"
       },
       {
-          "id":26,
-          "nombre": "Miguel Juarez",
-          "documento_identidad": 987654321,
-          "fecha_nacimiento": "error en fecha"
+        "id":26,
+        "nombre": "Martina Rodriguez",
+        "documento_identidad": 98464684,
+        "fecha_nacimiento": "1989-05-12"
       },
       {
-          "id":27,
-          "nombre": "Maria Lopez",
-          "documento_identidad": 12345678,
-          "fecha_nacimiento": "1990-01-01"
+        "id":27,
+        "nombre": "Matias Sanchez",
+        "documento_identidad": 45678912,
+        "fecha_nacimiento": "1995-10-10"
       },
       {
-          "id":28,
-          "nombre": "Jose Perez",
-          "documento_identidad": 987654321,
-          "fecha_nacimiento": "error en fecha"
+        "id":28,
+        "nombre": "Emilia Perez",
+        "documento_identidad": 98465412,
+        "fecha_nacimiento": "1999-12-10"
       },
       {
-          "id":29,
-          "nombre": "Miguel Juarez",
-          "documento_identidad": 987654321,
-          "fecha_nacimiento": "error en fecha"
+        "id":29,
+        "nombre": "Luciano Rodriguez",
+        "documento_identidad": 98464684,
+        "fecha_nacimiento": "1989-05-12"
+      },
+      {
+        "id":30,
+        "nombre": "Victoria Sanchez",
+        "documento_identidad": 45678912,
+        "fecha_nacimiento": "1995-10-10"
       }
   ],
   "profile": {
