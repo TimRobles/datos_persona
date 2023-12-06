@@ -174,24 +174,6 @@
           "documento_identidad": 987654321,
           "fecha_nacimiento": "error en fecha"
       },
-      {
-          "id":30,
-          "nombre": "Maria Lopez",
-          "documento_identidad": 12345678,
-          "fecha_nacimiento": "1990-01-01"
-      },
-      {
-          "id":31,
-          "nombre": "Jose Perez",
-          "documento_identidad": 987654321,
-          "fecha_nacimiento": "error en fecha"
-      },
-      {
-          "id":32,
-          "nombre": "Miguel Juarez",
-          "documento_identidad": 987654321,
-          "fecha_nacimiento": "error en fecha"
-      }
   ],
   "profile": {
     "name": "typicode"
